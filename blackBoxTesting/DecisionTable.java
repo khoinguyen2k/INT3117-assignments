@@ -12,7 +12,7 @@ public class DecisionTable {
     }
     @Test
     public void testcase3_DT() {
-        assertEquals(109000, caculatorElectric.caculatorElectric(20));
+        assertEquals(40000, caculatorElectric.caculatorElectric(20));
     }
     @Test
     public void testcase4_DT() {
